@@ -20,8 +20,8 @@ html {
 }
 
 .hero {
-  background-image: url(https://picsum.photos/id/381/1920/1080);
-  background: linear-gradient(rgba(31, 44, 108, 0.65), rgba(31, 44, 108, 0.65)), rgba(0, 0, 0, 0.55) url("https://picsum.photos/id/381/1920/1080") no-repeat;
+  background-image: url(../assets/img/img1.jpg);
+  background: linear-gradient(rgba(248, 248, 248, 0.65), rgba(31, 44, 108, 0.65)), rgba(0, 0, 0, 0.55) url("../assets/img/img1.jpg") no-repeat;
   background-attachment: fixed;
   background-size: cover;
   color: white;
@@ -31,8 +31,8 @@ html {
 
 .hero .title {
   font-family: 'Kaushan Script', sans-serif;
-  transform: rotate(-5deg);
-  font-size: 5rem;
+  transform: rotate(-3deg);
+  font-size: 3rem;
   color: whitesmoke;
 }
 
