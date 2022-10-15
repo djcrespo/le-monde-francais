@@ -20,8 +20,8 @@ html {
 }
 
 .hero {
-  background-image: url(../assets/img/img1.jpg);
-  background: linear-gradient(rgba(248, 248, 248, 0.65), rgba(31, 44, 108, 0.65)), rgba(0, 0, 0, 0.55) url("../assets/img/img1.jpg") no-repeat;
+  background-image: url(../assets/img/img3.jpg);
+  background: linear-gradient(rgba(248, 248, 248, 0.65), rgba(31, 44, 108, 0.65)), rgba(0, 0, 0, 0.55) url("../assets/img/img3.jpg") no-repeat;
   background-attachment: fixed;
   background-size: cover;
   color: white;
